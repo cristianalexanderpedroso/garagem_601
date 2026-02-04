@@ -1,0 +1,4 @@
+# Netlify redirects file
+# Redirecionar todas as rotas para index.html exceto a consulta pública
+/consulta /index.html 200
+/* /index.html 200
